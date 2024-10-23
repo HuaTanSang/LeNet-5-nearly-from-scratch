@@ -2,11 +2,11 @@
 This repository represents LeNet-5 on digit handwritting dataset MNIST.  
 It is built from the DataLoader to load MNIST Dataset to the main.py. Additionally, it also contains collate_function and more...   
 ## Requirement
-`python 3.10.5`  
-`idx2numpy`  
-`numpy`  
+`python 3.10.5` 
+`idx2numpy` 
+`numpy` 
 `pytorch`   
-`sklearn`   
+`sklearn`  
 `tqdm`   
 ## How to run this repository  
 Firstly, you have to clone this repo by using `git clone` command.  
