@@ -5,7 +5,7 @@ It is built from the DataLoader to load MNIST Dataset to the main.py. Additional
 `python 3.10.5` 
 `idx2numpy` 
 `numpy` 
-`pytorch`   
+`pytorch`
 `sklearn`  
 `tqdm`   
 ## How to run this repository  
