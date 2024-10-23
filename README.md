@@ -6,7 +6,7 @@ It is built from the DataLoader to load MNIST Dataset to the main.py. Additional
 `idx2numpy` 
 `numpy` 
 `pytorch`
-`sklearn`  
+`sklearn`
 `tqdm`   
 ## How to run this repository  
 Firstly, you have to clone this repo by using `git clone` command.  
